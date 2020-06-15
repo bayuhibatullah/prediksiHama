@@ -1,0 +1,72 @@
+[
+  {
+    "itemID" : "1",
+    "suhu" : 1,
+    "kelembaban" : 2,
+    "curah hujan" : 1,
+    "hama" : "atherigona sp"
+  },
+  {
+    "itemID" : "2",
+    "suhu" : 2,
+    "kelembaban" : 2,
+    "curah hujan" : 1,
+    "hama" : "lundi"
+  },
+  {
+    "itemID" : "3",
+    "suhu" : 1,
+    "kelembaban" : 2,
+    "curah hujan" : 3,
+    "hama" : "ulat grayak"
+  },
+  {
+    "itemID" : "4",
+    "suhu" : 3,
+    "kelembaban" : 2,
+    "curah hujan" : 1,
+    "hama" : "atherigona sp"
+  },
+  {
+    "itemID" : "5",
+    "suhu" : 3,
+    "kelembaban" : 3,
+    "curah hujan" : 1,
+    "hama" : "lundi"
+  },
+  {
+    "itemID" : "6",
+    "suhu" : 2,
+    "kelembaban" : 1,
+    "curah hujan" : 3,
+    "hama" : "kumbang landak"
+  },
+  {
+    "itemID" : "7",
+    "suhu" : 1,
+    "kelembaban" : 3,
+    "curah hujan" : 2,
+    "hama" : "atherigona sp"
+  },
+  {
+    "itemID" : "8",
+    "suhu" : 1,
+    "kelembaban" : 2,
+    "curah hujan" : 1,
+    "hama" : "atherigona sp"
+  },
+  {
+    "itemID" : "9",
+    "suhu" : 1,
+    "kelembaban" : 2,
+    "curah hujan" : 1,
+    "hama" : "ulat grayak"
+  },
+  {
+    "itemID" : "10",
+    "suhu" : 1,
+    "kelembaban" : 2,
+    "curah hujan" : 3,
+    "hama" : "kumbang landak"
+  }
+]

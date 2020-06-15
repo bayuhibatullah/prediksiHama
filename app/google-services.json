@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949090724692",
+    "firebase_url": "https://prediksihama.firebaseio.com",
+    "project_id": "prediksihama",
+    "storage_bucket": "prediksihama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949090724692:android:43b189923a81338ee8b6c1",
+        "android_client_info": {
+          "package_name": "com.unej.prediksihama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949090724692-gnimi53v8s6j74595mctr1u70l7m58o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVJJkoKboFfsjhSkjoq0bTjhphaizw8KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949090724692-gnimi53v8s6j74595mctr1u70l7m58o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

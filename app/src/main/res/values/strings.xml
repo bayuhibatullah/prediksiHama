@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Prediksi Hama</string>
+    <string name="yes">Prediksi Jagung</string>
+    <string name="info">
+        Aplikasi ini akan memprediksi serangan hama pada tanaman padi untuk 2 minggu kedepan. \n\nCara kerja aplikasi ini adalah
+        dengan mengumpulkan data historis klimatologis dan data historis serangan hama dalam 3 tahun terakhir. Dari data tersebut
+        kami sulap menggunakan algoritma K-Nearest Neighbor sehingga menghasilkan pengetahuan yang dapat memprediksi serangan hama di wilayah anda
+    </string>
+    <string name="access_token">sk.eyJ1IjoiYmF5dWhpYmF0dWxsYWgiLCJhIjoiY2tiNHRvdHBlMGo2bDJzbnNmY2dkajZ5ZCJ9.O7_wA-YvH9_QhvwuLSy93Q</string>
+
+    <!--    Map View-->
+    <string name="move_map_instruction">Gerakkan petanya</string>
+    <string name="location_picker_select_location_button_cancel">Gak jadi dipilih</string>
+    <string name="location_picker_select_location_button_select">Lokasi dipilih</string>
+    <string name="user_location_permission_explanation">Aplikasi butuh izin untuk mengakses lokasi anda</string>
+    <string name="user_location_permission_not_granted">Izin lokasi ditolak</string>
+    <string name="location_picker_place_name_result">%1$s</string>
+    <string name="location_picker_dropped_marker_snippet_no_results">Gak ada keterangan</string>
+
+
+    <!--    Location Picker-->
+    <string name="click_on_map_instruction">Tap lokasi pada peta</string>
+    <string name="query_feature_no_properties_found">Gak ada properties</string>
+    <string name="query_feature_marker_title">Properties:</string>
+
+
+    <string name="OPEN_MAP_KEY">aaa04da5ce94a9539274b84977ee97d3</string>
+    <string name="WEATHERBIT_KEY">254c065b118a415cb463b218db9c5672</string>
+</resources>
